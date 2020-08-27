@@ -1,7 +1,4 @@
-### Hi there 👋
-
-### Currently Working on a New Portfolio Website
-
+### How did you get here
 <!--
 **Abazzi/Abazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
