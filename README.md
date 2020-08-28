@@ -1,4 +1,6 @@
 ### How did you get here
+
+#### If you wana talk alt-comics hit me up
 <!--
 **Abazzi/Abazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
