@@ -1,3 +1,3 @@
-#### That rug really tied the room together
+#### If you're ever in Cody, Wyoming, ask for Wild Bob
 
 
