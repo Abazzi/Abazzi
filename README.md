@@ -1,3 +1,3 @@
-#### Wishing you blue skies and golden sunshine all along the way
+#### Wishing you beautiful blue skies and golden sunshine all along the way
 
 
