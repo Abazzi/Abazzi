@@ -1,3 +1,3 @@
-#### If you're ever in Cody, Wyoming, ask for Wild Bob
+#### Wishing you blue skies and golden sunshine all along the way
 
 
