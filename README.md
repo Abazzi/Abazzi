@@ -1,6 +1,6 @@
-[![Abazzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abazzi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Abazzi/Abazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Abazzi's GitHub stats](https://github-readme-stats-abazzi.vercel.app/api?username=Abazzi&show_icons=true&theme=radical)
+
+<!--**Abazzi/Abazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
