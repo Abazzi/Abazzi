@@ -1,4 +1,5 @@
-[Header](header.png)
+![Header](header.png)
+
 ![Abazzi's GitHub stats](https://github-readme-stats-abazzi.vercel.app/api?username=Abazzi&show_icons=true&theme=radical)
 
 <!--**Abazzi/Abazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
